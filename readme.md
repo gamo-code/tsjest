@@ -3,7 +3,7 @@
 Test a simple function with jest.
 Compiles source and runs test typescript files with multiple config files.
 
-## Preqs
+## Pre-requirements
 
 - NodeJs
 
@@ -30,3 +30,17 @@ This console will watch the test files and run test
 This console will watch for all .ts files and run eslint
 
 - `npx eslint-watch -w ".\src\**" ".\tests\**"`
+
+### Sources
+
+- <https://nodejs.org/>
+
+- <https://www.typescriptlang.org/download>
+- <https://www.typescriptlang.org/tsconfig>
+
+- <https://jestjs.io/docs/getting-started>
+
+- <https://www.npmjs.com/package/eslint-watch>
+- <https://eslint.org/>
+
+- <https://www.youtube.com/watch?v=gieEQFIfgYc>
